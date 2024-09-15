@@ -1,1 +1,1 @@
-Atividade relacionada Banco de Dados 2
+Atividade relacionada a Banco de Dados 2
